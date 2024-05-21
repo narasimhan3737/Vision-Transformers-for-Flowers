@@ -31,7 +31,6 @@ Linear probing evaluation on Flowers-102 dataset.
 
 To execute the evaluation script, use the following command:
 
-# dino
 ```bash
 python main.py
 
