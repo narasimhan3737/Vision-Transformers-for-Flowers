@@ -12,8 +12,8 @@ Evaluation of Flowers 102 dataset using K-NN classification on the frozen featur
 |         | Top 5      | 85.6968  | 88.3863  | 88.8753| 88.8753|
 | ibot    | Top 1      | 76.1613  | 76.7726  | 76.5281 | 75.6723 |
 |         | Top 5      | 91.5647  | 92.0537      | 92.7872 | 92.4205    |
-| attmask | Top 1      | 12.8361  | 15.2811  | 13.6919| 13.3251 |
-|         | Top 5      | 34.9633  | 36.5525 | 39.3643 | 38.7530|
+| attmask | Top 1      | 74.0831 | 74.2053 |	72.1271 |	71.6381 |
+|         | Top 5      | 88.6308 |	90.4645 | 91.1980 |	90.8312 |
 
 ## Linear probing evaluation
 
