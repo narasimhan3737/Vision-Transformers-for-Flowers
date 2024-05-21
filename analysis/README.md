@@ -1,4 +1,6 @@
-## Visualizing self-attention map from Vision Transformers
+### Visualizing self-attention map from Vision Transformers
+
+### Vision Transformer models
 
 # dino
 
