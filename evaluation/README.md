@@ -1,10 +1,10 @@
-## Evaluation
+# Evaluation
 
-### k-NN evaluation
+## k-NN evaluation
 
 K-NN ImageNet evaluation on Flowers 102 dataset.
 
-# KNN Classifier Results
+### KNN Classifier Results
 
 | Model   |            | 10-NN        | 20-NN        | 100-N       | 200-N       |
 |---------|------------|--------------|--------------|-------------|-------------|
@@ -15,11 +15,11 @@ K-NN ImageNet evaluation on Flowers 102 dataset.
 | attmask | Top 1      | 12.8361  | 15.2811  | 13.6919| 13.3251 |
 |         | Top 5      | 34.9633  | 36.5525 | 39.3643 | 38.7530|
 
-### Linear probing evaluation
+## Linear probing evaluation
 
 Linear probing evaluation on Flowers-102 dataset.
 
-# Linear Classifier Results
+### Linear Classifier Results
 
 | Model   | Acc@1  | Acc@5   | Train Loss |
 |---------|--------|---------|------------|
