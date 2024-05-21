@@ -1,8 +1,8 @@
-# Evaluation
+# Evaluation of Vision Transformer models
 
 ## k-NN evaluation
 
-K-NN ImageNet evaluation on Flowers 102 dataset.
+Evaluation of Flowers 102 dataset using K-NN classification on the frozen features.
 
 ### KNN Classifier Results
 
@@ -17,7 +17,7 @@ K-NN ImageNet evaluation on Flowers 102 dataset.
 
 ## Linear probing evaluation
 
-Linear probing evaluation on Flowers-102 dataset.
+Linear probing evaluation on Flowers-102 dataset through a supervised linear classifier on the frozen weights.
 
 ### Linear Classifier Results
 
