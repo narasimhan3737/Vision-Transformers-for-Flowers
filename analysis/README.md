@@ -2,14 +2,14 @@
 
 ### Vision Transformer models
 
-## dino
+## Attention map from dino
 
 ![Visualization 1](https://github.com/narasimhan3737/Vision-Transformers-for-Flowers/blob/main/analysis/dino.png)
 
-## ibot
+## Attention map from ibot
 
 ![Visualization 2](https://github.com/narasimhan3737/Vision-Transformers-for-Flowers/blob/main/analysis/ibot.png)
 
-## attmask
+## Attention map from attmask
 
 ![Visualization 2](https://github.com/narasimhan3737/Vision-Transformers-for-Flowers/blob/main/analysis/attmask.png)
