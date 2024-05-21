@@ -7,4 +7,11 @@ More information on the Dataset and data set split can be found in [`dataset`](h
 
 ## Analysis of Vision transformer models 
 
-The Oxfordflowers 102 [`link_to_project_folder`](https://github.com/narasimhan3737/Vision-Transformers-for-Flowers/tree/main/analysis) with the link to the specific folder in your repository. This README file provides a structured overview of your project and guides users on how to get started, use, and contribute to it.
+The pretrained Vistion Transformer models are analysed by taking self-attention maps, which are visualized in the [`analysis`](https://github.com/narasimhan3737/Vision-Transformers-for-Flowers/tree/main/analysis) folder
+
+## Evaluation of Vision transformer models 
+
+The pretrained Vision Transformer models are evaluated using K-NN classification and Linear Probing.
+
+The results of the evaluations can be found in the [`evaluation`](https://github.com/narasimhan3737/Vision-Transformers-for-Flowers/tree/main/evaluation) folder
+
