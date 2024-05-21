@@ -27,19 +27,4 @@ Linear probing evaluation on Flowers-102 dataset.
 | ibot    | 78.729 | 93.765  | 0.917      |
 | attmask | 74.817 | 91.565  | 1.078      |
 
-## Run the Code
 
-To execute the evaluation script, use the following command:
-
-
-```bash
-# dino
-python main.py
-
-# ibot
-```bash
-python main.py
-
-# attmask
-```bash
-python main.py
